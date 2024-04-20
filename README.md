@@ -11,6 +11,7 @@ Currently, you will need:
 + Linux Ubuntu 16.04
 + 64-bit
 + 4GB of free memory(orr swap 4gb)
++ node.js 7.10.0 < > 8.17.0
 
 
 install ubuntu server and get it updated:
